@@ -1,0 +1,14 @@
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/bin/Debug/net8.0/hormigas
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/bin/Debug/net8.0/hormigas.deps.json
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/bin/Debug/net8.0/hormigas.runtimeconfig.json
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/bin/Debug/net8.0/hormigas.dll
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/bin/Debug/net8.0/hormigas.pdb
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.GeneratedMSBuildEditorConfig.editorconfig
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.AssemblyInfoInputs.cache
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.AssemblyInfo.cs
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.csproj.CoreCompileInputs.cache
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.dll
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/refint/hormigas.dll
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.pdb
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/hormigas.genruntimeconfig.cache
+/home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/obj/Debug/net8.0/ref/hormigas.dll
