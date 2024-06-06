@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = hormigas
-build_property.ProjectDir = /home/raven/Documents/MyOnedrive/01 DESARROLLO/Practicas de programación/Tendencias desarollo de software/hormigas/
+build_property.ProjectDir = C:\Users\radha\OneDrive\01 DESARROLLO\Practicas de programación\Tendencias desarollo de software\hormigas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
